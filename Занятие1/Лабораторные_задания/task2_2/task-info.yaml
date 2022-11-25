@@ -3,13 +3,13 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 181
-    length: 87
+  - offset: 236
+    length: 101
     placeholder_text: '[num for num in list_numbers if num < 0])  # TODO заменить
       list comprehension на filter'
     initial_state:
       length: 87
-      offset: 126
+      offset: 181
     initialized_from_dependency: false
     selected: false
     status: Solved
